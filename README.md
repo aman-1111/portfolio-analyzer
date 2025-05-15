@@ -29,7 +29,7 @@ Portfolio Analyzer is a comprehensive tool designed to help investors evaluate a
 
 1. Clone this repository:
 
-git clone https://github.com/yourusername/portfolio-analyzer.git
+git clone https://github.com/aman-1111/portfolio-analyzer
 
 2. Navigate to the project directory:
 
